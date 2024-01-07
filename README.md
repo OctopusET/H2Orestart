@@ -22,6 +22,13 @@ hwpx파일을 OpenDocumentText (ODT)형식으로 변환 할 수 있습니다.
 * 오류나 불편사항은 이 github의 issue에 등록해주시면 주기적으로 개선하겠습니다.
 
 ## 설치
+
+### 의존성
+JRE 8 이상 버전이 필요합니다.
+참조:
+- https://wiki.documentfoundation.org/Faq/General/InstallJava
+- https://wiki.documentfoundation.org/Documentation/HowTo/Install_the_correct_JRE_-_LibreOffice_on_Windows_10
+
 ### LibreOffice Extension
 https://extensions.libreoffice.org/en/extensions/show/27504
 
